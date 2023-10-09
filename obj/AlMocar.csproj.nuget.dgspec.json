@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\dev\\AlMocar\\AlMocar.csproj": {}
-  },
-  "projects": {
-    "C:\\dev\\AlMocar\\AlMocar.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\dev\\AlMocar\\AlMocar.csproj",
-        "projectName": "AlMocar",
-        "projectPath": "C:\\dev\\AlMocar\\AlMocar.csproj",
-        "packagesPath": "C:\\Users\\Aluno Dev\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\AlMocar\\obj\\",
-=======
     "C:\\Dev\\cs\\AlMocar\\AlMocar.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "C:\\Dev\\cs\\AlMocar\\AlMocar.csproj",
         "packagesPath": "C:\\Users\\Aluno Dev\\.nuget\\packages\\",
         "outputPath": "C:\\Dev\\cs\\AlMocar\\obj\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
