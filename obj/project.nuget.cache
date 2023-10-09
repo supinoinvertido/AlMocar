@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "RO9q1kKAltxWFxlaHG1McUmLnH87tt1cjbLO6L60jVEVnVMPs+keVuk1DtJtpcCek1jLw9PQ2W0ZE0t56+PCIQ==",
   "success": true,
   "projectFilePath": "C:\\dev\\AlMocar\\AlMocar.csproj",
+=======
+  "dgSpecHash": "TSwDzz2UJanyjQcoxwxyyAXVjtAMNVcN7Mxq/ccQBn44uzSoDBqq0fij8bJyxOeqGfyIs/WacSvNN/oE9SYDsw==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\cs\\AlMocar\\AlMocar.csproj",
+>>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
   "expectedPackageFiles": [
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
