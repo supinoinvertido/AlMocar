@@ -16,30 +16,30 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = c:\Dev\cs\AlMocar
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Dev/cs/AlMocar/Views/Home/Index.cshtml]
+[C:/Dev/cs/AlMocar/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Dev/cs/AlMocar/Views/Home/Privacy.cshtml]
+[C:/Dev/cs/AlMocar/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Dev/cs/AlMocar/Views/Shared/Error.cshtml]
+[C:/Dev/cs/AlMocar/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Dev/cs/AlMocar/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Dev/cs/AlMocar/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Dev/cs/AlMocar/Views/_ViewImports.cshtml]
+[C:/Dev/cs/AlMocar/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Dev/cs/AlMocar/Views/_ViewStart.cshtml]
+[C:/Dev/cs/AlMocar/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Dev/cs/AlMocar/Views/Shared/_Layout.cshtml]
+[C:/Dev/cs/AlMocar/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4584dpboxi
