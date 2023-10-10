@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "31wquoP9Z7dfS1KbLjQAdzYGLEy+u/tfWTSJRoZNWo4=",
-=======
-  "Hash": "3QAY7f5xuIdPQAzPpXhsPKGiNx/Lszgkn3QFiNFnhGk=",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
+  "Hash": "P7DvCUkF5+mGLfXrv/aEJazulNxU23cBoWy6tsuJ6aE=",
   "Source": "AlMocar",
   "BasePath": "_content/AlMocar",
   "Mode": "Default",
@@ -14,28 +10,17 @@
     {
       "Name": "AlMocar\\wwwroot",
       "Source": "AlMocar",
-<<<<<<< HEAD
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AlMocar.styles.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\AlMocar\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AlMocar.styles.css",
       "SourceId": "AlMocar",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "AlMocar.styles.css",
       "AssetKind": "All",
@@ -46,15 +31,6 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\dev\\AlMocar\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AlMocar.styles.css"
-    },
-    {
-      "Identity": "C:\\dev\\AlMocar\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AlMocar.bundle.scp.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\dev\\AlMocar\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
-=======
       "OriginalItemSpec": "C:\\Dev\\cs\\AlMocar\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AlMocar.styles.css"
     },
     {
@@ -62,7 +38,6 @@
       "SourceId": "AlMocar",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "AlMocar.bundle.scp.css",
       "AssetKind": "All",
@@ -73,15 +48,6 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-<<<<<<< HEAD
-      "OriginalItemSpec": "C:\\dev\\AlMocar\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AlMocar.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\css\\site.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "OriginalItemSpec": "C:\\Dev\\cs\\AlMocar\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AlMocar.bundle.scp.css"
     },
     {
@@ -89,7 +55,6 @@
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -103,17 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\favicon.ico",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\favicon.ico",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -127,11 +85,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\image\\Logo (1).png",
+      "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\image\\Frame 13.png",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
+      "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
+      "BasePath": "_content/AlMocar",
+      "RelativePath": "image/Frame 13.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\Frame 13.png"
+    },
+    {
+      "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\image\\Logo (1).png",
+      "SourceId": "AlMocar",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
       "BasePath": "_content/AlMocar",
       "RelativePath": "image/Logo (1).png",
       "AssetKind": "All",
@@ -145,16 +119,27 @@
       "OriginalItemSpec": "wwwroot\\image\\Logo (1).png"
     },
     {
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\image\\Logo (2).png",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
+      "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
+      "BasePath": "_content/AlMocar",
+      "RelativePath": "image/Logo (2).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\Logo (2).png"
+    },
+    {
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\js\\site.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -168,17 +153,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -192,17 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -216,17 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -240,17 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -264,17 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -288,17 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -312,17 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -336,17 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -360,17 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -384,17 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,17 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -432,17 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -456,17 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -480,17 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -504,17 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -528,17 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -552,17 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -576,17 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -600,17 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -624,17 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -648,17 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -672,17 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -696,17 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -720,17 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -744,17 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -768,17 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -792,17 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -816,17 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -840,17 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -864,17 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -888,17 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -912,17 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -936,17 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -960,17 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -984,17 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1008,17 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1032,17 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1056,17 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1080,17 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1104,17 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1128,17 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1152,17 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1176,17 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1200,17 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1224,17 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1248,17 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1272,17 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1296,17 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1320,17 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1344,17 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1368,17 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1392,17 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1416,17 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1440,17 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1464,17 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1488,17 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1512,17 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\dev\\AlMocar\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "AlMocar",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\AlMocar\\wwwroot\\",
-=======
       "Identity": "C:\\Dev\\cs\\AlMocar\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AlMocar",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Dev\\cs\\AlMocar\\wwwroot\\",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
       "BasePath": "_content/AlMocar",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
