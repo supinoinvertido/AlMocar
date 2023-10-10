@@ -10676,11 +10676,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\AlMocar\\AlMocar.csproj",
+      "projectUniqueName": "C:\\Dev\\cs\\AlMocar\\AlMocar.csproj",
       "projectName": "AlMocar",
-      "projectPath": "C:\\dev\\AlMocar\\AlMocar.csproj",
+      "projectPath": "C:\\Dev\\cs\\AlMocar\\AlMocar.csproj",
       "packagesPath": "C:\\Users\\Aluno Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\AlMocar\\obj\\",
+      "outputPath": "C:\\Dev\\cs\\AlMocar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -10751,5 +10751,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Dev\\cs\\AlMocar\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

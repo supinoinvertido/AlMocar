@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "RO9q1kKAltxWFxlaHG1McUmLnH87tt1cjbLO6L60jVEVnVMPs+keVuk1DtJtpcCek1jLw9PQ2W0ZE0t56+PCIQ==",
-  "success": true,
-  "projectFilePath": "C:\\dev\\AlMocar\\AlMocar.csproj",
-=======
   "dgSpecHash": "TSwDzz2UJanyjQcoxwxyyAXVjtAMNVcN7Mxq/ccQBn44uzSoDBqq0fij8bJyxOeqGfyIs/WacSvNN/oE9SYDsw==",
   "success": true,
   "projectFilePath": "C:\\Dev\\cs\\AlMocar\\AlMocar.csproj",
->>>>>>> 5e193745a759916d1664d391ed73e52adc98b15f
   "expectedPackageFiles": [
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -221,5 +215,12 @@
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Aluno Dev\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Dev\\cs\\AlMocar\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
