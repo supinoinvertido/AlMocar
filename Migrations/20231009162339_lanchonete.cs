@@ -5,7 +5,7 @@
 namespace AlMocar.Migrations
 {
     /// <inheritdoc />
-    public partial class lanchonete : Migration
+    public partial class Lanchonete : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

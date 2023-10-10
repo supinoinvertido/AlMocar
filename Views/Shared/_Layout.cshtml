@@ -30,6 +30,25 @@
                             <a class="nav-link text-info" asp-area="" asp-controller="Home"
                                 asp-action="Privacy">Privacy</a>
                         </li>
+                        <li class="nav-item">
+
+                            @await Component.InvokeAsync("CategoriaMenu")
+
+                        </li>
+                        <li class="nav-item">
+
+                            <form class="navbar-form navbar-right" asp-controller="Item" asp-action="Search"
+                                method="get">
+
+                                <div class="form-group">
+                                    <input type="text" class="form-control" placeholder="Procurar produto" name="searchString" value="@ViewData["searchString"]">
+                                </div>
+                            </form>
+                        </li>
+                        <li>
+                            @await Component.InvokeAsync("CarrinhoResumo")
+                        </li>
+                        
                     </ul>
                 </div>
             </div>
@@ -45,9 +64,9 @@
         <div class="container col-2 text-center">
             <a href="">Acesse com midias sociais</a>
             <div class="icones fs-2">
-                    <i class="bi bi-facebook text-white"></i>
-                    <i class="bi bi-instagram text-white"></i>
-                    <i class="bi bi-whatsapp text-white"></i>
+                <i class="bi bi-facebook text-white"></i>
+                <i class="bi bi-instagram text-white"></i>
+                <i class="bi bi-whatsapp text-white"></i>
             </div>
 
         </div>

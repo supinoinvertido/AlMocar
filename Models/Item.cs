@@ -15,7 +15,7 @@ namespace AlMocar.Models
         [Required(ErrorMessage ="Informe o Nome do produto")]
         [MinLength(5, ErrorMessage ="Nome do produto deve ter no minimo {1} caracteries")]
         [MaxLength(10, ErrorMessage ="Nome do produto deve ter no minimo {1} caracteries")]
-        public int Nome{get;set;}
+        public string Nome{get;set;}
 
 
 
@@ -45,7 +45,9 @@ namespace AlMocar.Models
         public double Valor{get; set;}
 
         [Display(Name = "Item esta sendo feito")]
-        public bool Fazendo{get; set;}
+        public bool Ativo{get; set;}
+
+        public bool Destaque{get; set;}
 
         [Display(Name ="CategoriaId do item")]
         [Required(ErrorMessage ="Informe a CategoriaId do item")]

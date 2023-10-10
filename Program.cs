@@ -1,9 +1,18 @@
 using AlMocar.Context;
+using AlMocar.Models;
+using AlMocar.Repositories;
+using AlMocar.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddScoped(sp => Carrinho.GetCarrinhoCompra(sp));
+builder.Services.AddMemoryCache();
+builder.Services.AddSession();
+builder.Services.AddSingleton<IHttpContextAccessor,HttpContextAccessor>();
+builder.Services.AddTransient<ICategoriaRepository, CategoriaRepository>();
+builder.Services.AddTransient<IItemRepository, ItemRepository>();
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("DefaulConnection")));
 builder.Services.AddControllersWithViews();
 
@@ -19,10 +28,14 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
+app.UseSession();
 app.UseRouting();
 
 app.UseAuthorization();
+app.MapControllerRoute(
+name: "categoriaFiltro",
+pattern: "Item/{action}/{categoria?}",
+defaults: new { Controller = "Item", action = "List" });
 
 app.MapControllerRoute(
 name: "areas",

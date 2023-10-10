@@ -1,21 +1,27 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using AlMocar.Models;
+using AlMocar.Repositories.Interfaces;
+using AlMocar.ViewModel;
 
 namespace AlMocar.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+    private readonly IItemRepository _itemRepository;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(IItemRepository itemRepository)
     {
-        _logger = logger;
+        _itemRepository = itemRepository;
     }
 
     public IActionResult Index()
     {
-        return View();
+        var homeViewModel = new HomeViewModel
+        {
+            ItemsEmDestaque = _itemRepository.ItemsEmDestaque
+        };
+        return View(homeViewModel);
     }
 
     public IActionResult Privacy()
